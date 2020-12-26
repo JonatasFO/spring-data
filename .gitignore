@@ -29,5 +29,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+[Bb]in/
+[Bb]in
+
 ### VS Code ###
 .vscode/
